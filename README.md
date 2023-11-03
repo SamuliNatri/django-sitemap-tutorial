@@ -21,7 +21,6 @@ macOS, Linux:
 ```bash
 mkdir app && cd app
 git clone git@github.com:SamuliNatri/django-sitemap-tutorial.git .
-cd django-blog-app
 chmod 700 setup.sh
 ./setup.sh
 source venv/bin/activate
