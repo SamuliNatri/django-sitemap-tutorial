@@ -29,3 +29,4 @@ python manage.py runserver
 ```
 
 - Visit [http://127.0.0.1:8000/sitemaps.xml](http://127.0.0.1:8000/sitemaps.xml)
+- Admin username && password == admin
